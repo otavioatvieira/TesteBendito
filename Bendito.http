@@ -1,0 +1,6 @@
+@Bendito_HostAddress = http://localhost:5281
+
+GET {{Bendito_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
